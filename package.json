@@ -1,26 +1,26 @@
 {
-  "name": "jsonresume-theme-elegant",
-  "version": "0.9.10",
-  "description": "Elegant theme for jsonresume",
+  "name": "jsonresume-theme-elegant-wso",
+  "version": "0.0.1",
+  "description": "Elegant theme for jsonresume customized for williamsodell",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant.git"
+    "url": "https://github.com/williamsodell/jsonresume-theme-elegant.git"
   },
   "keywords": [
     "jsonresume",
     "theme",
-    "elegant"
+    "elegant-wso"
   ],
-  "author": "Mudassir Ali <mudassir.dev@gmail.com>",
+  "author": "William S. O'Dell <williamsodell+npm@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant/issues"
+    "url": "https://github.com/williamsodell/jsonresume-theme-elegant/issues"
   },
-  "homepage": "https://github.com/mudassir0909/jsonresume-theme-elegant",
+  "homepage": "https://github.com/williamsodell/jsonresume-theme-elegant",
   "dependencies": {
     "gravatar": "^1.0.6",
     "handlebars": "^2.0.0-alpha.4",
