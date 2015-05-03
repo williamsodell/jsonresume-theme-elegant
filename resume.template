@@ -118,10 +118,8 @@
             {{#resume.basics}}
               <span class="profile-pic-container">
                 <div class="profile-pic">
-                  {{#if picture}}
-                  <img class="media-object img-circle center-block"  data-src="holder.js/100x100"
-                    alt="{{name}}" src="{{picture}}" itemprop="image">
-                  {{/if}}
+                  <!--img class="media-object img-circle center-block"  data-src="holder.js/100x100"
+                    alt="{{name}}" src="{{picture}}" itemprop="image"-->
                 </div>
 
                 <div class="name-and-profession">

@@ -1,6 +1,6 @@
 {
   "name": "jsonresume-theme-elegant-wso",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Elegant theme for jsonresume customized for williamsodell",
   "main": "index.js",
   "scripts": {
