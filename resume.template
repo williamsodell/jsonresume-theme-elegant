@@ -118,8 +118,10 @@
             {{#resume.basics}}
               <span class="profile-pic-container">
                 <div class="profile-pic">
+                  {{#if picture}}
                   <img class="media-object img-circle center-block"  data-src="holder.js/100x100"
                     alt="{{name}}" src="{{picture}}" itemprop="image">
+                  {{/if}}
                 </div>
 
                 <div class="name-and-profession">
@@ -539,7 +541,7 @@
                 <div class="detail" id="publications">
                   <div class="icon">
                     <i class="fa fa-lg fa-book"></i>
-                    <span class="mobile-title">Publications</span>
+                    <span class="mobile-title">Projects</span>
                   </div>
                   <div class="info">
                     <h4 class="title text-uppercase">
